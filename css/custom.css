@@ -1,0 +1,311 @@
+@media (min-width: 1300px) {
+    body.full header.main-header .first-row {
+      background-size: 101% auto;
+    }
+  }
+
+  #main-menu .menu > .menu-item > a,
+  #main-menu .menu > .menu-item > a:visited,
+  .wpv-countdown .wpvc-block .value-label {
+    font-weight: normal;
+    letter-spacing: 1px;
+  }
+
+  em {
+    font: italic 16px/20px Georgia;
+  }
+
+  p.story,
+  p.story-nocap {
+    line-height: 28px;
+  }
+
+  p.story:first-letter {
+    float: left;
+    color: #002136;
+    font-size: 96px;
+    line-height: 66px;
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-left: 3px;
+    font-family: "Playfair Display", Georgia, serif;
+  }
+
+  p.question {
+    font: normal 14px/18px Georgia;
+    clear: both;
+    color: #898989;
+    padding-bottom: 0px;
+    margin-bottom: 0.2em;
+  }
+
+  p.answer {
+    font: italic 18px/24px Georgia;
+    clear: both;
+    padding-top: 0px;
+    margin-top: 0px;
+  }
+
+  /* HEADER FIXES */
+  header.main-header .first-row {
+    margin: 20px 0 0;
+  }
+
+  .fixed-header-box .logo-wrapper {
+    padding: 0 0 20px;
+  }
+
+  header.main-header .second-row {
+    background-color: #002136;
+  }
+
+  /* TAGLINE */
+  .logo-tagline {
+    display: none !important;
+  }
+
+  /* DATE BANNER */
+  .date-banner {
+    background: url("/images/2014/01/date-banner.png");
+    background-position: 50% 0;
+    width: 571px;
+    height: 150px;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    margin: auto;
+  }
+
+  .date-banner h1 {
+    letter-spacing: 2px;
+  }
+
+  @media screen and (max-width: 520px) {
+    .date-banner {
+      background: none;
+    }
+  }
+
+  .engaged {
+    position: relative;
+  }
+
+  .engaged img {
+    width: 100%;
+    height: auto;
+  }
+
+  img.engaged-overlay {
+    position: absolute;
+    top: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  /* COUNTDOWN */
+  .wpv-countdown .wpvc-block .value {
+    font-family: "Playfair Display", Georgia, serif;
+    font-size: 90px;
+    line-height: 110px;
+  }
+
+  .countdown h2,
+  .wpv-countdown .wpvc-block .value,
+  .wpv-countdown .wpvc-block .value-label {
+    color: #fce4c1;
+    text-transform: uppercase;
+  }
+
+  .wpv-countdown .wpvc-sep {
+    display: none;
+  }
+
+  .sep-text .content *,
+  .sep-text .sep-text-more * {
+    line-height: 18px;
+  }
+
+  .sep-text.centered .content {
+    padding-left: 1em;
+  }
+
+  .sep-text .content {
+    padding-right: 1em;
+  }
+
+  /* DIVIDER LINES */
+  .sep-text-before {
+    background: url("/images/2014/02/divider-arrow-l.png");
+  }
+
+  .sep-text-after {
+    background: url("/images/2014/02/divider-arrow-r.png");
+  }
+
+  .sep-text-line {
+    display: none !important;
+  }
+
+  span#remove {
+    display: none;
+  }
+
+  /* THE BIG DAY LOCATION h5 FIX */
+  .services-content h5,
+  h5.subtitle {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+
+  /* RSVP FORM */
+  .wpv-rsvp-form .form-content {
+    background: #f4e6d0 !important;
+  }
+
+  .wpv-rsvp-form:before {
+    display: none;
+    margin-top: 0 !important;
+  }
+
+  .wpv-rsvp-form h2 {
+    padding-top: 30px;
+  }
+
+  .wpv-rsvp-form .form-content:before {
+    background: url("/images/2014/02/divider-arrow-l.png");
+    height: 14px;
+    border: 0;
+  }
+
+  .wpv-rsvp-form .form-content {
+    padding: 30px 40px 0 40px;
+  }
+
+  #main input[type="text"],
+  #main input[type="email"],
+  #main input[type="password"],
+  #main input[type="email"],
+  #main input[type="search"],
+  #main input[type="date"],
+  #main input[type="range"],
+  #main input[type="number"],
+  #main textarea,
+  #main select {
+    color: #444;
+  }
+
+  /* REGISTRY BOX */
+  .registry-box {
+    height: auto !important;
+    margin: 45px auto 0;
+    float: none;
+    background: #fcfbf2;
+    text-align: center;
+    border-radius: 2px;
+    box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.3);
+    color: #898989 !important;
+  }
+
+  #wpv-column-9134759e462e0bb19f4a1acb77334545 p,
+  #wpv-column-9134759e462e0bb19f4a1acb77334545 .column-title,
+  #wpv-column-9134759e462e0bb19f4a1acb77334545
+    .sep-text
+    .regular-title-wrapper,
+  #wpv-column-9134759e462e0bb19f4a1acb77334545 .text-divider-double,
+  #wpv-column-9134759e462e0bb19f4a1acb77334545 .sep-text .sep-text-line,
+  #wpv-column-9134759e462e0bb19f4a1acb77334545 .sep,
+  #wpv-column-9134759e462e0bb19f4a1acb77334545 .sep-2,
+  #wpv-column-9134759e462e0bb19f4a1acb77334545 .sep-3 {
+    color: #898989 !important;
+  }
+
+  div.wpcf7 img.ajax-loader {
+    padding: 0 0 10px 4px;
+    margin: auto !important;
+  }
+
+  div.wpcf7-response-output {
+    padding: 0.6em 1em !important;
+    text-align: center;
+  }
+
+  .wpv-rsvp-form input[type="text"],
+  .wpv-rsvp-form select {
+    font: normal 16px/24px Arial, sans serif;
+  }
+
+  /* FOOTER */
+  footer.main-footer {
+    margin-bottom: 80px;
+    min-height: 120px;
+    background: url("/images/2014/05/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    border: 0px;
+  }
+
+  #footer-sidebars > .row aside {
+    float: none;
+  }
+
+  section#text-15,
+  section#easy_instagram_widget_base-3 {
+    padding-bottom: 0px !important;
+  }
+
+  .easy-instagram-thumbnail-author,
+  .easy-instagram-thumbnail-caption,
+  .easy-instagram-thumbnail-time {
+    display: none;
+  }
+
+  .easy-instagram-thumbnail-wrapper {
+    display: inline-block;
+  }
+
+  .easy-instagram-thumbnail {
+    margin: 0 0 0 11px;
+  }
+
+  footer hr {
+    width: 60%;
+    margin: 2em auto;
+  }
+
+  footer h4,
+  footer h5,
+  footer h6,
+  footer p {
+    letter-spacing: 4px;
+    color: #d0bda2;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  footer h4 {
+    font-size: 18px !important;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  footer h6 {
+    font-size: 13px !important;
+    color: #cacaca;
+  }
+
+  footer a {
+    /*color: white !important;*/
+  }
+
+  .csstransforms3d.js .responsive-layout .mp-menu h2 {
+    color: #6e6563;
+  }
+
+  .csstransforms3d.js .responsive-layout .mp-menu ul li > a {
+    color: #002136;
+  }
+
+  .csstransforms3d.js .responsive-layout .mp-menu ul li a:hover {
+    color: #154d77;
+  }
