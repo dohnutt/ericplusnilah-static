@@ -15,10 +15,10 @@
   font-display: swap;
 }
 @font-face {
-  font-family: 'Futura Book';
-  src: url('/fonts/Futura-Book.woff2') format('woff2'),
-      url('/fonts/Futura-Book.woff') format('woff'),
-      url('/fonts/Futura-Book.ttf') format('truetype');
+  font-family: 'fb';
+  src: url('https://dohnutt.com/hotlinked/fb/fb.woff2') format('woff2'),
+      url('https://dohnutt.com/hotlinked/fb/fb.woff') format('woff'),
+      url('https://dohnutt.com/hotlinked/fb/fb.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -164,7 +164,7 @@ body {
 }
 body {
   overflow: hidden;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
   font-family: "Georgia", serif;
 }
 article,
@@ -1595,7 +1595,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
   margin-top: 0.4em;
   margin-bottom: 0.4em;
 }
@@ -4073,7 +4073,7 @@ body.full.layout-left-only .load-more:after {
 .load-more .button.lm-btn span {
   font-size: 21px;
   line-height: 28px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
   color: #ffffff;
   padding: 30px 0 !important;
   position: relative;
@@ -4190,7 +4190,7 @@ body.full.layout-left-only .load-more:after {
 #main-menu .menu .sub-menu a {
   font-weight: bold;
   font-size: 16px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
   text-align: center;
 }
 #main-menu .menu .sub-menu .menu-item:after {
@@ -4207,7 +4207,7 @@ body.full.layout-left-only .load-more:after {
   color: #d0bda2;
   font-weight: bold;
   font-size: 16px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
   line-height: 16px;
 }
 #main-menu .menu > .menu-item.current-menu-parent > a,
@@ -4551,7 +4551,7 @@ blockquote {
   margin-bottom: 0;
   font-size: 21px;
   line-height: 28px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
 }
 blockquote.small p,
 blockquote.small {
@@ -4694,7 +4694,7 @@ html.csstransitions .row > div.animated-active.animation-ended {
 .wpv-countdown {
   font-size: 21px;
   line-height: 28px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
   color: #6e6563;
   text-align: center;
 }
@@ -4706,7 +4706,7 @@ html.csstransitions .row > div.animated-active.animation-ended {
 .wpv-countdown .wpvc-block .value {
   font-size: 90px;
   line-height: 90px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
   color: #f05449;
   min-width: 110px;
 }
@@ -5584,7 +5584,7 @@ html.touch .loop-wrapper.news .standard-post-format.as-image .thumbnail a.single
   font-size: 12px;
   font-weight: normal;
   line-height: 20px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
   opacity: 0.5;
 }
 .loop-wrapper.news .post-meta-small .love-it-wrapper .icon {
@@ -5646,7 +5646,7 @@ html.touch .loop-wrapper.news .standard-post-format.as-image .thumbnail a.single
   color: #f05449;
   font-size: 30px;
   line-height: 30px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
 }
 .services .services-main-info {
   background: url("http://ericplusnilah.com/images/frame-time.png") no-repeat;
@@ -7085,7 +7085,7 @@ aside.right .widget ul.product-categories li.current-cat:before,
 .widget_calendar #wp-calendar caption {
   font-size: 24px;
   line-height: 30px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
   color: #f05449;
   padding: 0 0 10px 0 !important;
 }
@@ -7615,7 +7615,7 @@ aside .social_wrap:after {
   border-color: #ffffff;
   font-size: 26px;
   line-height: 28px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
 }
 .tagcloud a:hover {
   background: #6e6563;
@@ -7677,13 +7677,13 @@ div.wpcf7 img.ajax-loader {
 .wpv-rsvp-form select {
   font-size: 21px;
   line-height: 28px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
   height: 38px;
 }
 .wpv-rsvp-form textarea {
   font-size: 21px;
   line-height: 28px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
   height: 38px;
 }
 .wpv-rsvp-form input[type="submit"] {
@@ -7996,7 +7996,7 @@ footer.main-footer .widget .widget-title > .icon {
   text-transform: uppercase;
   font-size: 12px;
   line-height: 16px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
   color: #CACACA;
   margin-top: 10px;
   padding-top: 0;
@@ -8355,7 +8355,7 @@ footer.main-footer .widget .widget-title > .icon {
 .comments .comment-meta > .comment-author-link {
   font-size: 24px;
   line-height: 30px;
-  font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+  font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
 }
 .comments h6.comment-reply-link {
   position: absolute;
@@ -9068,7 +9068,7 @@ cite {
     font-size: 16px;
     line-height: 30px;
     font-weight: bold;
-    font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+    font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
     transition: background 0.3s, box-shadow 0.3s;
     display: block;
     padding: 10px 20px;
@@ -9095,7 +9095,7 @@ cite {
     font-size: 16px;
     line-height: 30px;
     font-weight: bold;
-    font-family: 'Futura Book', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', sans-serif;
+    font-family: 'fb', 'Futura Book', 'Futura Book Std', 'Futura', 'Futura-Medium', 'Futura Medium', 'Futura Md BT', 'Didact Gothic', sans-serif;
     margin: 0;
     padding: 1em;
     color: #d0bda2;
